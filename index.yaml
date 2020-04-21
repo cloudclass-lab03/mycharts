@@ -3,12 +3,12 @@ entries:
   eventapp-lab03:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-21T11:49:53.0579031+09:00"
+    created: "2020-04-21T15:59:00.2040738+09:00"
     description: A Helm chart for Kubernetes
-    digest: cda2b38e5fd4f0d1183581518745582e5c8672538ece167a9ce01e7a35208fa3
+    digest: 561ee57d9dc5293b0e139a5bfb96f84aaf2a60a7dbd99b1dc5a037426fd4813e
     name: eventapp-lab03
     type: application
     urls:
     - https://cloudclass-lab03.github.io/mycharts/eventapp-lab03-0.1.0.tgz
     version: 0.1.0
-generated: "2020-04-21T11:49:53.0569428+09:00"
+generated: "2020-04-21T15:59:00.2030741+09:00"
